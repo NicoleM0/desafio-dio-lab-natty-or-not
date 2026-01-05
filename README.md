@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+A Jornada da IA: Um Passeio pelo Futuro 🌌
 
-## 🚀 Introdução
+📒 Descrição
+Este projeto consiste na criação de um e-book introdutório sobre Inteligência Artificial Generativa, abordando seus conceitos básicos, aplicações no cotidiano e impactos no futuro da educação, do trabalho e da sociedade. Seguindo o desafio, o material foi desenvolvido com apoio de IA, demonstrando seu potencial como ferramenta criativa e educacional.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
+Foi utilizado a IA ChatGPT para a geração, organização e revisão do conteúdo textual do e-book;
+Foi utilizada a IA Dreamina para a criação da capa do livro;
+Foi utlizado o Google Documentos para a edição final do livro.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+Inicialmente, foi definido o tema central do e-book e sua estrutura geral. Em seguida, utilizei o ChatGPT para escrever os textos e organizar os capítulos de forma didática. Depois, utilizei o Dreamina para criar a capa do e-book com base no título do mesmo. Após a criação de todo o conteúdo, o material foi revisado e organizado em formato de e-book, e todo o processo foi documentado neste repositório.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+O resultado final é um e-book informativo e acessível, que apresenta uma visão geral sobre Inteligência Artificial Generativa e seu impacto no futuro. O projeto demonstra como a IA pode ser utilizada de forma consciente e produtiva na criação de conteúdo educacional.
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://github.com/NicoleM0/desafio-dio-lab-natty-or-not/blob/main/EBOOK%20-%20A%20Jornada%20da%20IA%20-%20Um%20Passeio%20pelo%20Futuro.pdf
